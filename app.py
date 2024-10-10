@@ -15,7 +15,7 @@ app = Flask(__name__)
 returns = ''
 plot=''
 total=''
-
+#Python is cool
 
 # @app.route('/upload', methods=['POST'])
 
